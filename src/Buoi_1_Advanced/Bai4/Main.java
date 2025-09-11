@@ -1,4 +1,4 @@
-package Buoi_2.Bai4;
+package Buoi_1_Advanced.Bai4;
 
 public class Main {
     public static void main(String[] args) {

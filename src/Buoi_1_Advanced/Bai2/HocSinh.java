@@ -1,4 +1,4 @@
-package Buoi_2.Bai2;
+package Buoi_1_Advanced.Bai2;
 
 public class HocSinh {
     // Biến instance

@@ -1,4 +1,4 @@
-package Buoi_2.Bai4;
+package Buoi_1_Advanced.Bai4;
 
 import java.util.Random;
 
