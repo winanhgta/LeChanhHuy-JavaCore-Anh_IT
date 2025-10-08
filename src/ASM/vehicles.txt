@@ -1,0 +1,10 @@
+Car,Toyota,Vios,2020,550000000,Trắng,5
+Car,Honda,Civic,2021,720000000,Đỏ,5
+Car,Hyundai,Accent,2019,480000000,Bạc,5
+Car,Mazda,3,2022,780000000,Đen,5
+Car,Kia,Seltos,2023,680000000,Xanh,7
+Truck,Ford,Ranger,2021,950000000,Bạc,2.5
+Truck,Isuzu,FRR90,2020,850000000,Trắng,3.0
+Truck,Hino,300,2019,890000000,Vàng,3.5
+Truck,Toyota,Dyna,2018,800000000,Xanh,2.8
+Car,VinFast,LuxA2.0,2022,950000000,Trắng,5
